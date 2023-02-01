@@ -4,7 +4,6 @@
 # organized by the file datetime, under a year/month/day tree structure or in a single folder.
 # The user inputs the origin and destination folders, and selects the format for the final folder.
 # The script also displays the progress bar with the copy action for each file in the same line.
-
 clear
 
 
